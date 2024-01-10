@@ -4,6 +4,7 @@
 
 This repository contains the code for the Payout Dukaan task. The task is made up with react and tailwind css tech stacks.
 Live-[https://dukaanbuildpayout.netlify.app/]
+![Screenshot](https://raw.githubusercontent.com/shivansh1507/Payout-dukaan/main/nishyan%20payout.png)
 
 ## Getting Started
 ### Installation
